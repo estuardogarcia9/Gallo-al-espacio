@@ -2,6 +2,9 @@
 
 Proyecto desarrollado por estudiantes de la Universidad Francisco Marroquín como parte del curso *Taller de Ingeniería III*.
 
+![Visualización de datos](Screenshot%202025-05-17%20165843.png)
+
+
 ## 🛰️ Descripción General
 
 El **Proyecto Capricornio** consistió en el diseño, construcción y lanzamiento de una cápsula científica transportada por un globo meteorológico hasta la estratósfera. El objetivo fue recopilar datos ambientales mediante sensores integrados, procesarlos con herramientas como Python y Excel, y documentar toda la misión, desde la planificación financiera hasta el análisis de datos.
