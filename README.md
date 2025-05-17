@@ -1,4 +1,4 @@
-# 🚀 Proyecto Capricornio – Exploración Estratósferica con Análisis de Datos
+# 🚀 Proyecto "GALLO AL ESPACIO" – Exploración Estratósferica con Análisis de Datos
 
 Proyecto desarrollado por estudiantes de la Universidad Francisco Marroquín como parte del curso *Taller de Ingeniería III*.
 
@@ -7,7 +7,7 @@ Proyecto desarrollado por estudiantes de la Universidad Francisco Marroquín com
 
 ## 🛰️ Descripción General
 
-El **Proyecto Capricornio** consistió en el diseño, construcción y lanzamiento de una cápsula científica transportada por un globo meteorológico hasta la estratósfera. El objetivo fue recopilar datos ambientales mediante sensores integrados, procesarlos con herramientas como Python y Excel, y documentar toda la misión, desde la planificación financiera hasta el análisis de datos.
+El **Proyecto Gallo al Espacio** consistió en el diseño, construcción y lanzamiento de una cápsula científica transportada por un globo meteorológico hasta la estratósfera. El objetivo fue recopilar datos ambientales mediante sensores integrados, procesarlos con herramientas como Python y Excel, y documentar toda la misión, desde la planificación financiera hasta el análisis de datos.
 
 Este proyecto integra ingeniería electrónica, análisis de datos, diseño estructural y gestión de proyectos reales, convirtiéndose en una experiencia completa de desarrollo técnico y operativo.
 
