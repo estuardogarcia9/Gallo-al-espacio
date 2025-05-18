@@ -1,6 +1,6 @@
 # 🚀 Proyecto "GALLO AL ESPACIO" – Exploración Estratósferica con Análisis de Datos
 
-Proyecto desarrollado por estudiantes de la Universidad Francisco Marroquín como parte del curso *Taller de Ingeniería III*.
+Gallo al Espacio fue un proyecto académico que consistió en el diseño, construcción y lanzamiento de una cápsula científica transportada por un globo meteorológico hasta la estratósfera.*.
 
 ![Visualización de datos](Screenshot%202025-05-17%20165843.png)
 
